@@ -8,6 +8,6 @@ Brief overview of all the features and files present in this repo
        
        
 3)__MixAndMatch__
-    ![alt text](https://github.com/[aditi721999]/[Holmes_404_Myntra]/blob/Myntra/MixAndMatch/Untitled_document_Google_Docs.png?raw=true)
+    ![Mix&Match](https://github.com/aditi721999/Holmes_404_Myntra/blob/Myntra/MixAndMatch/Untitled_document_Google_Docs.png?raw=true)
 
 4)__Voice Search__
