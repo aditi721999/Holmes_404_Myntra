@@ -3,4 +3,4 @@ We use a trained model to obtain this and our aim is to improve accuracy over ti
 The python notebook contains detailed explanation with examples of how powerfull our algorithm is.
 
 Below is a small example of the same
-![Image](../master/Holmes_404_Myntra/Myntra/Trenbox/readme.PNG)
+![Image](https://github.com/aditi721999/Holmes_404_Myntra/blob/main/Myntra/Trenbox/readme.JPG)
