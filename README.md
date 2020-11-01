@@ -7,7 +7,7 @@ Brief overview of all the features and files present in this repo
  i)ClothesExtract.Py : Removes background from URL using API resulting in Fig 2.1 , Creating mask using using Open CV(Fig 2.2) and finally subtracting them to show Fig 2.3.
  ![Clothes Extraction](https://github.com/aditi721999/Holmes_404_Myntra/blob/main/Myntra/MixAndMatch/Untitled_document_Google_Docs.png)
  final Clothes  are obtained after using image processing on Fig 2.3.
- ![Final Extracted Clothes](https://github.com/aditi721999/Holmes_404_Myntra/blob/main/Myntra/MixAndMatch/final.png)
+ 
  
  3)__VoiceSearch__
     i) Voice_Search.py : Speech Recognition is used to convert Audio to Text
