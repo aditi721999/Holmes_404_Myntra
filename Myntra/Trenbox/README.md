@@ -2,3 +2,4 @@ The idea to bring the latest trends on your mobile just a click away is now real
 We use a trained model to obtain this and our aim is to improve accuracy over time as we get more data and feed it to our model.
 The python notebook contains detailed explanation with examples of how powerfull our algorithm is.
 
+Below is a small example of the same
