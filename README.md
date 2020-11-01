@@ -8,6 +8,6 @@ Brief overview of all the features and files present in this repo
        
        
 3)__MixAndMatch__
-    ![Mix&Match](https://github.com/aditi721999/Holmes_404_Myntra/Myntra/MixAndMatch/Untitled_document_Google_Docs.png?raw=true)
+    ![Image of Yaktocat](https://github.com/aditi721999/Holmes_404_Myntra/blob/main/Myntra/MixAndMatch/Untitled_document_Google_Docs.png)
 
 4)__Voice Search__
