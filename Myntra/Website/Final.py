@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, render_template, request, redirect, url_for
 from pymongo import MongoClient
-#import win10toast,random
+import win10toast,random  #Comment This line in any other OS except Windows
 import random
 import speech_recognition as sr
 from flask_mail import Mail,Message
@@ -11,7 +11,7 @@ db = cluster["MyntraImages"]
 collection = db["Wishlist"]
 Site = db["Myntra"]
 app = Flask(__name__)
-#toaster=win10toast.ToastNotifier()
+toaster=win10toast.ToastNotifier()  #Comment This line in any other OS except Windows
 url_voice=""
 
 app.config['MAIL_SERVER']='smtp.gmail.com'
